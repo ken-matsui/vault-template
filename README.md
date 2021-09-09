@@ -1,4 +1,4 @@
-# HashiCorp Vault on Compute Engine
+# HashiCorp Vault on GCP & M1 Mac
 
 This example shows how to run a highly-available HashiCorp Vault cluster on
 Google Compute Engine.
